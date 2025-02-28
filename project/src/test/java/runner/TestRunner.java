@@ -158,9 +158,7 @@ public class TestRunner extends Base {
         helper.clickOnElement(By.xpath("//span[normalize-space()='Monthly newsletter']"));
         helper.clickOnElement(By.xpath("//span[normalize-space()='I accept the Terms and Privacy Policy']"));
         helper.clickOnElement(By.xpath("//button[normalize-space()='Subscribe']"));
-       
-
-
+       System.out.println("We won Mara");
     }
 
 
