@@ -1,0 +1,12 @@
+Started on Feb 28, 2025, 11:52:00 AM
+Using strategy: Default
+[poll] Last Built Revision: Revision 5453935ebc0342a08b3c34b50288dab091daf948 (refs/remotes/origin/main)
+The recommended git tool is: NONE
+No credentials specified
+ > git --version # timeout=10
+ > git --version # 'git version 2.30.2'
+ > git ls-remote -h -- https://github.com/mjdneo/jenkinsnew.git # timeout=10
+Found 1 remote heads on https://github.com/mjdneo/jenkinsnew.git
+[poll] Latest remote head revision on refs/heads/main is: 02bfbf43c62946b7fbf2aeb21509d757e46e8ba8
+Done. Took 0.22 sec
+Changes found
